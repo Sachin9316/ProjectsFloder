@@ -1,0 +1,11 @@
+img{
+    float: right;
+    margin: 10px;
+}
+
+#img2{
+    float: right;
+    width: 200px;
+    height: 250px;
+    clear: right;
+}

@@ -1,0 +1,13 @@
+.box{
+    border: solid black 1px;
+    overflow: auto;
+}
+
+.item{
+    width: 200px;
+    height: 200px;
+    margin: 2px;
+    background-color: aquamarine;
+    border: solid black 1px;
+    float: left;
+}
